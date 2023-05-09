@@ -15,3 +15,36 @@ Player akan dapat menginput key 'W (up), A (left), S (down), D (right)' dari key
 ---
 
 # Kontributor
+<table>
+  <tr>
+    <th>Nama</th>
+    <th>NIM </th>
+    <th>Posisi</th>
+  </tr>
+  
+  <tr>
+    <td>Yanto Pernando Halomoan Hutapea</td>
+    <td>121140127</td>
+    <td>Ketua</td>
+  </tr>
+   <tr>
+    <td>Handayogi Tambunan</td>
+    <td>121140114</td>
+    <td>Anggota</td>
+  </tr>
+  <tr>
+    <td>Louis Paskalis Ginting</td>
+    <td>121140066</td>
+    <td>Anggota</td>
+  </tr>
+  <tr>
+    <td>Yos Berman Panjaitan</td>
+    <td>121140185</td>
+    <td>Anggota</td>
+  </tr>
+  <tr>
+    <td>Nelpi Sariana Hutasoit</td>
+    <td>121140107</td>
+    <td>Anggota</td>
+  </tr>
+</table>
