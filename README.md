@@ -7,7 +7,10 @@ Challenge Car, adalah game yang mengambil konsep dari game "Flappy bird", namun 
 Player akan dapat menginput key 'W (up), A (left), S (down), D (right)' dari keyboard, yang dimana tombol - tombol tersebut akan bergerak sesuai arahan untuk melewati setiap rintangan berupa Objek bangunan yang akan muncul secara random pada saat game dimulai nanti. Player akan terus bermain sampai player tersebut menabrak Objek bangunan atau tembok, yang dimana akan menampilkan score yang didapat setelah "Dead / Game Over".
 
 # Dependensi paket (Library) yang digunakan
-Pygame dan random
+import pygame
+from pygame.locals imnport *
+from pygame import mixers
+import random
 
 # UML Diagram
 ---
