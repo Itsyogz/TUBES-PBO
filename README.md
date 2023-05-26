@@ -13,7 +13,7 @@ Player akan dapat menginput key 'W (up), A (left), S (down), D (right)' dari key
 <b> import random </b><br/>
 
 # UML Diagram
-<img src = "Umldiagram.jpg" />
+<img src = "updateUMLDiagram.jpg" />
 
 # Kontributor
 <table>
